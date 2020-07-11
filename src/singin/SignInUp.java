@@ -2,7 +2,7 @@ package singin;
 
 public class SignInUp {
 
-
+	
 	public String signinloc="//*[@id=\"current_account\"]";
 	public String emailloc="//*[@id=\"username\"]"; 
 	public String nextButtonloc="//*[@id=\"root\"]/div/div[2]/div/div[1]/div[2]/div/div/div/form/div[3]/button/span"; 
